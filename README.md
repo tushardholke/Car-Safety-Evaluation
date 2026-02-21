@@ -39,10 +39,8 @@ This project demonstrates how tree-based algorithms handle categorical datasets 
 - Performance Comparison
 
 ## Screenshots
-![SS1](https://github.com/user-attachments/assets/2d5b2c40-6f58-46d1-8cc9-c0a7ada6547b)
-![SS2](https://github.com/user-attachments/assets/cda7ecd6-0360-48f5-9669-aad0cf38f6f8)
-![SS3](https://github.com/user-attachments/assets/ee2d5c2c-5b61-4fda-8fd1-64e260bdd34e)
-![SS4](https://github.com/user-attachments/assets/3234c88d-fd1d-4998-8759-ba6770091ec0)
+<img width="644" height="580" alt="1" src="https://github.com/user-attachments/assets/58d976f5-6077-4d85-8a48-fe047116e4f0" />
+<img width="640" height="588" alt="2" src="https://github.com/user-attachments/assets/7db0f09f-a9ec-435c-b3b9-eaed78d84288" />
 
 
 ## Contributing
