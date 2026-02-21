@@ -5,6 +5,7 @@ The Car Safety Evaluation project applies Machine Learning algorithms to predict
 This project compares the performance of two powerful classification algorithms:
 - Decision Tree
 - Random Forest
+
 The goal is to analyze, train, and evaluate models to determine which algorithm provides better prediction accuracy.
 
 ## Features
