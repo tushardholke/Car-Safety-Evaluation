@@ -8,24 +8,35 @@ This project compares the performance of two powerful classification algorithms:
 
 The goal is to analyze, train, and evaluate models to determine which algorithm provides better prediction accuracy.
 
-## Features
-- User interface with buttons for Stone, Paper, and Scissors.
-- Computer generates random choices.
-- Displays the outcome of each round: Win, Lose, or Tie.
-- Real-time interaction with simple visual feedback.
+## Problem Statement
+Given multiple categorical features describing a car, predict its overall safety classification:
+- Unacceptable
+- Acceptable
+- Good
+- Very Good
+
+This project demonstrates how tree-based algorithms handle categorical datasets effectively.
 
 ## Technologies
-- **HTML**: Defines the structure of the game.
-- **CSS**: Handles the styling and layout.
-- **JavaScript**: Manages the game logic and interactions.
+- Python
+- Pandas – Data manipulation
+- NumPy – Numerical operations
+- Matplotlib / Seaborn – Data visualization
+- Scikit-learn – Machine learning models
 
-## How to Play
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/StonePaperScissors.git
-2. Open index.html in your browser.
-3. Click one of the choices: Stone, Paper, or Scissors.
-4. The result will be shown on the screen, indicating whether you won, lost, or tied.
+## Project Workflow
+- Data Collection & Loading
+- Data Preprocessing
+- Encoding categorical variables
+- Train-Test Split
+- Model Training
+- Decision Tree
+- Random Forest
+- Model Evaluation
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+- Performance Comparison
 
 ## Screenshots
 ![SS1](https://github.com/user-attachments/assets/2d5b2c40-6f58-46d1-8cc9-c0a7ada6547b)
