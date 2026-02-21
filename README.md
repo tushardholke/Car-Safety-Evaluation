@@ -40,10 +40,10 @@ This project demonstrates how tree-based algorithms handle categorical datasets 
 
 ## Screenshots
 - Decision Tree confusion matrix
-- <img width="644" height="580" alt="1" src="https://github.com/user-attachments/assets/58d976f5-6077-4d85-8a48-fe047116e4f0" />
+<img width="644" height="580" alt="1" src="https://github.com/user-attachments/assets/58d976f5-6077-4d85-8a48-fe047116e4f0" />
 
 - Random Forest confusion matrix
-- <img width="640" height="588" alt="2" src="https://github.com/user-attachments/assets/7db0f09f-a9ec-435c-b3b9-eaed78d84288" />
+<img width="640" height="588" alt="2" src="https://github.com/user-attachments/assets/7db0f09f-a9ec-435c-b3b9-eaed78d84288" />
 
 
 ## Contributing
